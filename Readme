@@ -1,0 +1,39 @@
+springboot+springcloud+mybatisplus+swagger
+
+在test中建立测试类，运行代码生成器生成controller，entity，service，mapper
+
+在父模块中建立common公共模块，子模块service_base中写Swagger。访问：localhost:8001/swagger-ui.html
+
+logback日志:先删除配置文件中的log，在resource下建logback-spring.xml文件
+
+前端vsCode
+
+Vue.js 快速构建用户界面的渐进式框架 https://cn.vuejs.org
+
+axios，在vue中发出ajax异步请求
+
+element-ui: 饿了吗前端基于Vue.js的后台组件库  http://element-cn.eleme.io/#/zh-CN
+
+node.js 运行在服务端的js。相当于运行js的环境。不需要浏览器就能运行js代码
+
+vue-admin-template模板=vue+element-ui
+
+阿里oss
+
+easyexcel(阿里巴巴)
+
+nginx做请求转发
+
+nacos服务注册
+
+hystrix 熔断器（分布式）
+
+springcloud远程服务调用：消费者---接口化请求---feign（服务发现)---hystrix（服务熔断）---ribbon(负载均衡)---生产者
+
+前台环境NUXT框架(node.js)（ajax不适合seo)
+
+redis缓存
+
+
+
+
